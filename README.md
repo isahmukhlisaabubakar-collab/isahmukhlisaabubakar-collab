@@ -24,9 +24,9 @@ I'm an aspiring Software Engineer with an interest in Front-End Development. I e
 ## 📂 My Projects
 
 ### Personal Portfolio Website
-
-A personal website created using HTML and CSS.
 ![my portfolio website](portfolio-preview.png)
+A personal website created using HTML and CSS.
+
 
 ### Akih Ayman Tribute Page
 
