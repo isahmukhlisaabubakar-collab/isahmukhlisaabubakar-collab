@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**isahmukhlisaabubakar-collab/isahmukhlisaabubakar-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Mukhlisa
 
-Here are some ideas to get you started:
+### Aspiring Front-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm an aspiring Software Engineer with an interest in Front-End Development. I enjoy creating websites and improving my coding skills through practical projects.
+
+## 🌱 About Me
+
+- 💻 Currently learning HTML and CSS.
+- 🚀 Building projects to improve my skills.
+- 📚 Always willing to learn new things.
+- 🎯 Working towards becoming a skilled Software Engineer.
+
+## 🛠️ Languages and Tools
+
+- HTML
+- CSS
+- GitHub
+- Visual Studio Code
+
+## 📂 My Projects
+
+### Personal Portfolio Website
+
+A personal website created using HTML and CSS.
+
+### Akih Ayman Tribute Page
+
+A tribute website created using HTML and CSS as part of my practice.
+
+## 🌟 My Goals
+
+- Improve my web development skills.
+- Learn JavaScript.
+- Build more projects.
+- Become a Software Engineer.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/isahmukhlisaabubakar-collab
+
+---
+
+⭐ Thanks for visiting my profile!
