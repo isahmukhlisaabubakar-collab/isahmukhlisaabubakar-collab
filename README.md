@@ -29,7 +29,7 @@ A personal website created using HTML and CSS.
 
 
 ### Akih Ayman Tribute Page
-![view my tribute page](https://isahmukhlisaabubakar-collab.github.io/akih-ayman-tribute/)
+[view my tribute page](https://isahmukhlisaabubakar-collab.github.io/akih-ayman-tribute/)
 A tribute website created using HTML and CSS as part of my practice.
 
 ## 🌟 My Goals
