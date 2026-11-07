@@ -33,6 +33,12 @@ A personal website created using HTML and CSS.
 [view my tribute page](https://isahmukhlisaabubakar-collab.github.io/akih-ayman-tribute/)
 A tribute website created using HTML and CSS as part of my practice.
 
+
+### Javascript calculator
+[view my javascript calculator](https://isahmukhlisaabubakar-collab.github.io/javascript-calculator/)
+A calculator created using HTML & CSS and JAVASCRIPT
+
+
 ## 🌟 My Goals
 
 - Improve my web development skills.
